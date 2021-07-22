@@ -12,8 +12,9 @@
 </ul>
 <p>Para executar o projeto no terminal, digite o seguinte comando:</p>
 
-<div class="highlight highlight-source-shell position-relative"><pre>mvn spring-boot:run </pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="mvn spring-boot:run 
+<div class="snippet-clipboard-content position-relative"><pre><code>mvn spring-boot:run 
+</code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="http://localhost:8080/api/v1/people
 " tabindex="0" role="button">
       <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-clippy js-clipboard-clippy-icon m-2">
     <path fill-rule="evenodd" d="M5.75 1a.75.75 0 00-.75.75v3c0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75v-3a.75.75 0 00-.75-.75h-4.5zm.75 3V2.5h3V4h-3zm-2.874-.467a.75.75 0 00-.752-1.298A1.75 1.75 0 002 3.75v9.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 13.25v-9.5a1.75 1.75 0 00-.874-1.515.75.75 0 10-.752 1.298.25.25 0 01.126.217v9.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-9.5a.25.25 0 01.126-.217z"></path>
@@ -65,4 +66,4 @@
 <li><a href="https://restfulapi.net/" rel="nofollow">Referência para o padrão arquitetural REST</a></li>
 </ul>
 
-<p><a href="https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing" rel="nofollow">Neste link</a>, seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.</p>**
+<p><a href="https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing" rel="nofollow">Neste link</a>, seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.</p>
